@@ -27,7 +27,7 @@ form {
 }
 
 .search-submit {
-    background: url(../img/magnifier.svg);
+    background: url('../img/magnifier.svg');
     position: absolute;
     width: 70px;
     height: 70px;
@@ -37,7 +37,7 @@ form {
 }
 
 .search-submit:hover {
-    background: url(../img/magnifier.svg);
+    background: url('../img/magnifier.svg');
     position: absolute;
     width: 85px;
     height: 85px;
